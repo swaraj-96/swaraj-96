@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring frontend developer</h3>
 <img align= "right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [Namaste React](https://github.com/swaraj-96/Namaste-react)
+- 🔭 I’m currently working on [BiteBox](https://github.com/swaraj-96/Namaste-react)
 
 - 🌱 I’m currently learning **React.js**
 
