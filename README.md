@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://swaraj-96.github.io/SwarajLive.github.io/](https://swaraj-96.github.io/SwarajLive.github.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://swaraj-pradhan.vercel.app/)
 
 - 💬 Ask me about **frontend development**
 
